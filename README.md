@@ -4,13 +4,7 @@ A lightweight, local-first project management workspace for organizing tasks acr
 
 ## Preview
 
-The application opens on the Board view with sample tasks so the interface is immediately understandable. For repository screenshots, capture the running application at desktop width and add the images to `screenshots/` (for example, `screenshots/board.png`, `screenshots/grid.png`, and `screenshots/dialogs.png`). Then embed the images here:
-
-```md
-![Taskforge board](screenshots/board.png)
-![Taskforge grid](screenshots/grid.png)
-![Taskforge dialogs](screenshots/dialogs.png)
-```
+The application opens on the Board view with sample tasks so the interface is immediately understandable.
 
 ## Features
 
@@ -37,7 +31,7 @@ The application opens on the Board view with sample tasks so the interface is im
 
 There are no runtime dependencies, build tools, or package installation steps.
 
-## Run locally
+## ToRun locally
 
 1. Clone the repository:
 
@@ -67,16 +61,3 @@ Taskforge stores its workspace in the current browser profile using `localStorag
 - The Charts view currently shows task counts by column rather than advanced reporting or historical trends.
 - There is no import workflow for restoring an exported JSON backup yet.
 - Drag and drop is designed primarily for pointer-based desktop interaction; use the task's action menu to move tasks when drag and drop is unavailable.
-
-## Project structure
-
-```text
-project-taskforge/
-├── index.html       # Application markup, styles, and JavaScript
-├── README.md        # Project documentation
-└── screenshots/     # Optional repository screenshots
-```
-
-## License
-
-No license has been added yet. Add a license file before accepting contributions or allowing reuse under explicit terms.
