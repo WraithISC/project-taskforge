@@ -6,6 +6,14 @@ A lightweight, local-first project management workspace for organizing tasks acr
 
 The application opens on the Board view with sample tasks so the interface is immediately understandable.
 
+Main Board
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43884e15-5b49-466a-8cb7-fd19fa78beb7" />
+
+Previews. . .
+<img width="1920" height="1080" alt="Preview SS" src="https://github.com/user-attachments/assets/e9109ad6-c6e3-4d5e-be19-5f3346c8d390" />
+
+
+
 ## Features
 
 - **Board view:** organize work across customizable columns and move task cards with drag and drop.
