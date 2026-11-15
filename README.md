@@ -31,7 +31,7 @@ The application opens on the Board view with sample tasks so the interface is im
 
 There are no runtime dependencies, build tools, or package installation steps.
 
-## ToRun locally
+## To Run locally
 
 1. Clone the repository:
 
@@ -61,3 +61,8 @@ Taskforge stores its workspace in the current browser profile using `localStorag
 - The Charts view currently shows task counts by column rather than advanced reporting or historical trends.
 - There is no import workflow for restoring an exported JSON backup yet.
 - Drag and drop is designed primarily for pointer-based desktop interaction; use the task's action menu to move tasks when drag and drop is unavailable.
+
+## Visit it as a Website.
+
+Here "https://wraithisc.github.io/project-taskforge/" !
+
